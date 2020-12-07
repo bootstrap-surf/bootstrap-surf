@@ -16,3 +16,5 @@ this repo is bootstrap.surf's main site, which is included in our library of tem
 to contribute, it's as easy as forking and making your edits. to create a testing environment, we recommend repl.it. repl.it is a web-based ide, which you can use for html and to preview your site, and make changes, in the same place. if you choose to use repl.it, simply press the button below to start.
 
 [![Run on Repl.it](https://repl.it/badge/github/bootstrap-surf/bootstrap-surf)](https://repl.it/github/bootstrap-surf/bootstrap-surf)
+
+if you do not want to use repl.it, you can simply just [download the source code](https://github.com/bootstrap-surf/bootstrap-surf/archive/main.zip) and open it in any ide or code editor possible!
