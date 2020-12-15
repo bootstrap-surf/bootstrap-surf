@@ -3,7 +3,7 @@ name: 🚀 Deploy website on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2.3.2
